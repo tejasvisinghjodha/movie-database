@@ -47,7 +47,7 @@ header img {
 }
 
 .pattern {
-  background-image: url("src/assets/BG.png");
+  background-image: url("public/BG.png");
   background-position: center;
   background-size: cover;
   width: 100%;
